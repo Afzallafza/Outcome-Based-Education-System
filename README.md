@@ -16,7 +16,7 @@ Outcome Based Education System automates the overall process of evaluating the p
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Outcome-Based-Education-System.git
+    git clone https://github.com/afzallafza/Outcome-Based-Education-System.git
     cd Outcome-Based-Education-System
     ```
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please contact:
 
 - **Afzal Hossain Babor**
-- **Email:**afzallafza@gmail.com
+- **Email: afzallafza@gmail.com**
