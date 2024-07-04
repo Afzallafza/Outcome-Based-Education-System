@@ -9,6 +9,8 @@ Outcome Based Education System automates the overall process of evaluating the p
 - Teachers can conduct virtual exams.
 - Teachers can post assignments.
 - Answer sheets are automatically attached to the relevant sections for evaluation.
+- A teacher can analyze his/her performance on a respective OBE section.
+- Analysis of a result will be automatically avaialable after the result is published.
 
 
 ## Installation
