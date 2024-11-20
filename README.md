@@ -5,13 +5,13 @@ Outcome Based Education System automates the overall process of evaluating the p
 
 ## Screenshots 
 <p float="left">
-  <img src="obe/static/screencapture-127-0-0-1-8000-2024-11-21-02_14_08.png" width="400" />
-  <img src="obe/static/screencapture-127-0-0-1-8000-assignment-2022-1-311-1001-2024-11-21-02_32_56.png" width="400" /> 
-  <img src="obe/static/screencapture-127-0-0-1-8000-assignment-2022-1-311-1001-2024-11-21-02_35_59.png" width="400" />
-    <img src="obe/static/screencapture-127-0-0-1-8000-attendance-2022-1-301-1001-2024-11-21-02_28_29.png" width="400" /> 
-  <img src="obe/static/screencapture-127-0-0-1-8000-cie-2022-1-301-1001-2024-11-21-02_30_00.png" width="400" /> 
-  <img src="obe/static/screencapture-127-0-0-1-8000-cieQuestions-2022-1-301-1001-2024-11-21-02_19_25.png" width="400" /> 
-  <img src="obe/static/screencapture-127-0-0-1-8000-indAss-7-2024-11-21-02_36_57.png" width="400" /> 
+  <img src="obe/static/screencapture-127-0-0-1-8000-2024-11-21-02_14_08.png" width="300" height="100" />
+  <img src="obe/static/screencapture-127-0-0-1-8000-assignment-2022-1-311-1001-2024-11-21-02_32_56.png" width="300" height="100" /> 
+  <img src="obe/static/screencapture-127-0-0-1-8000-assignment-2022-1-311-1001-2024-11-21-02_35_59.png" width="300" height="100"/>
+    <img src="obe/static/screencapture-127-0-0-1-8000-attendance-2022-1-301-1001-2024-11-21-02_28_29.png" width="300" height="100" /> 
+  <img src="obe/static/screencapture-127-0-0-1-8000-cie-2022-1-301-1001-2024-11-21-02_30_00.png" width="300" height="100" /> 
+  <img src="obe/static/screencapture-127-0-0-1-8000-cieQuestions-2022-1-301-1001-2024-11-21-02_19_25.png" width="300" height="100" /> 
+  <img src="obe/static/screencapture-127-0-0-1-8000-indAss-7-2024-11-21-02_36_57.png" width="300" height="100" /> 
 
 </p>
 ## Features
