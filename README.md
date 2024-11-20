@@ -4,8 +4,11 @@
 Outcome Based Education System automates the overall process of evaluating the performance of both students and faculty. It is built using Django, Python, HTML, and CSS.
 
 ## Screenshots 
-![Home Page](https://github.com/Afzallafza/Outcome-Based-Education-System/blob/main/obe/static/screencapture-127-0-0-1-8000-2024-11-21-02_14_08.png)
-
+<p float="left">
+  <img src="obe/static/screencapture-127-0-0-1-8000-2024-11-21-02_14_08.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 ## Features
 
 - Automates evaluation of student and faculty performance.
