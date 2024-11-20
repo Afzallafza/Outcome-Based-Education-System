@@ -13,9 +13,8 @@ Outcome Based Education System automates the overall process of evaluating the p
   <img src="obe/static/screencapture-127-0-0-1-8000-cieQuestions-2022-1-301-1001-2024-11-21-02_19_25.png" width="200" height="100" /> 
   <img src="obe/static/screencapture-127-0-0-1-8000-indAss-7-2024-11-21-02_36_57.png" width="200" height="100" /> 
     <img src="obe/static/screencapture-127-0-0-1-8000-teacher-2024-11-21-02_14_51.png" width="200" height="100" /> 
-
-
 </p>
+
 ## Features
 
 - Automates evaluation of student and faculty performance.
